@@ -2,7 +2,7 @@
 
 **Welcome to my profile!**
 
-<img alt="image header" src="imgs/imgs/header.png"/> 
+<img alt="image header" src="dev1.png"/> 
 
 <!-- ## Contact me -->
 ## 📫 How to reach me:
