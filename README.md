@@ -5,13 +5,21 @@
 <img alt="image header" src="dev1.png"/> 
 
 ## About Me:
-<p>Full Stack Web Developer working with MERN stack. Driven by passion for website ehich provide seamless user experience.</P>
+<ol>
+    <li>I'm a Full-Stack Web Developer with sepecialisation in MERN stack</li>
+    <li>I'm currently learning Node and ExpressJS</li>
+    <li>Reach out to me <a>tapishsharma1234@gmail.com</a></li>
+  </ol>
 
 <!-- ## Contact me -->
 ## 📫 How to reach me:
 
 <a href="mailto:tapishsharma1234@gmail.com-">
 <img alt="email" src="https://img.shields.io/badge/tapishsharma1234@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/tapish23/" target="_blanck">
+<img alt="linkedIn" src="https://img.shields.io/badge/-LinkedIn-blue height="30px" />
+    
 </a>
 
 ## ⚙️ My skills
