@@ -4,6 +4,9 @@
 
 <img alt="image header" src="dev1.png"/> 
 
+## About Me:
+<p>Full Stack Web Developer working with MERN stack. Driven by passion for website ehich provide seamless user experience.</P>
+
 <!-- ## Contact me -->
 ## 📫 How to reach me:
 
