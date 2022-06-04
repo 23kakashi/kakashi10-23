@@ -30,8 +30,8 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-F24E1E?style=for-the-badge&logo=redux&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-430098?style=for-the-badge&logo=typescript&logoColor=white)
-![Material UI](https://img.shields.io/badge/MatreialUI-2CA5E0?style=for-the-badge&logo=material&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-00ADD8?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Material UI](https://img.shields.io/badge/MatreialUi-2CA5E0?style=for-the-badge&logo=material&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-00ADD8?style=for-the-badge&logo=tailwind&logoColor=white)
 ![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white&color=283238)
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white&Color=c95410)
 
