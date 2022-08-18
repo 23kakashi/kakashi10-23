@@ -1,6 +1,6 @@
 # <p align="center">Hi <img src="gifs/hi.gif" width="35px">, I'm Tapish!</p>
-
 **Welcome to my profile!**
+**I am a full stack web developer with zeal to make user friendly website. I work with MERN stack.**
 
 <img alt="image header" src="dev1.png"/> 
 
