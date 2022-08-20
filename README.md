@@ -19,7 +19,11 @@ I am a full stack web developer with zeal to make user friendly website. I work 
 <img alt="email" src="https://img.shields.io/badge/tapishsharma1234@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/tapish23/" target="_blanck">
-<img alt="linkedIn" src="https://img.shields.io/badge/-LinkedIn-blue height="30px" />
+<img alt="linkedIn" src="https://img.shields.io/badge/-LinkedIn-blue" height="30px" />
+    
+</a>
+<a href="https://tapish-sharma.netlify.app/" target="_blanck">
+<img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-red" height="30px" />
     
 </a>
 
@@ -35,6 +39,7 @@ I am a full stack web developer with zeal to make user friendly website. I work 
 ![Tailwind](https://img.shields.io/badge/Tailwind-00ADD8?style=for-the-badge&logo=tailwind&logoColor=white)
 ![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white&color=283238)
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white&Color=c95410)
+![Git](https://img.shields.io/badge/Redis%20-%23F05033.svg?&style=for-the-badge&logo=redis&logoColor=white&Color=c95410)
 
 <!-- ![Arch](https://img.shields.io/badge/Arch%20Linux-0B2541?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=fff) -->
@@ -52,6 +57,10 @@ I am a full stack web developer with zeal to make user friendly website. I work 
     /> <br>
     <img alt="most used languages" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kakashi10-23&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8&langs_count=20&hide=hack,swift,kotlin,objective-c,c++,c-make,markdown"/>
 </p>
+
+<br/>
+<a href="https://github.com/kakashi10-23/github-readme-activity-graph"><img alt="Tapish's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kakashi10-23&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<br/>
 
 <!---
 kakashi10-23/kakashi10-23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
