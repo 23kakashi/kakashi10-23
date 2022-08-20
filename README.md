@@ -1,8 +1,10 @@
 # <p align="center">Hi <img src="gifs/hi.gif" width="35px">, I'm Tapish!</p>
-**Welcome to my profile!**
-</br>
-I am a full stack web developer with zeal to make user friendly website. I work with MERN stack.
+<h2 align="center">Welcome to my profile!</h2>
 
+<h4 align="center">
+    A passionate Full-Stack Web Developer with zeal to make user friendly website. I have a deep desire to excel and continuously improve in my work. Looking for an oppotunity to bring ideas to life using my skills.
+</h4>
+</br>
 <img alt="image header" src="dev1.png"/> 
 
 ## About Me:
