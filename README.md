@@ -10,7 +10,7 @@
 ## About Me:
 <ol>
     <li>I'm a Full-Stack Web Developer with sepecialisation in MERN stack</li>
-    <li>I'm currently learning Node and ExpressJS</li>
+    <li>I'm currently working with chartJS</li>
     <li>Reach out to me <a>tapishsharma1234@gmail.com</a></li>
     <li>My project can viewed visiting my <a href="https://tapish-sharma.netlify.app/">Protfolio</a></li>
   </ol>
@@ -43,15 +43,16 @@
 ![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white&color=283238)
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white&Color=c95410)
 ![Git](https://img.shields.io/badge/Redis%20-%23F05033.svg?&style=for-the-badge&logo=redis&logoColor=white&Color=c95410)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/ExpressJS-20232A?style=for-the-badge&logo=express&logoColor=61DAFB)
 
 <!-- ![Arch](https://img.shields.io/badge/Arch%20Linux-0B2541?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=fff) -->
 
 <!-- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) -->
 ### 📚 Learning
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/ExpressJS-20232A?style=for-the-badge&logo=express&logoColor=61DAFB)
+![ChartJS](https://img.shields.io/badge/ChartJS-20232A?style=for-the-badge&logo=chartjs&logoColor=61DAFB)
 
 ## <img src="gifs/haha.gif" width="25px"> Github stats
 
