@@ -2,7 +2,7 @@
 <h2 align="center">Welcome to my profile!</h2>
 
 <h4 align="center">
-    A passionate Full-Stack Web Developer with zeal to make user friendly website. I have a deep desire to excel and continuously improve in my work. Looking for an oppotunity to bring ideas to life using my skills.
+    Meticulous and passionate Full-Stack Web Developer with zeal to make user friendly website. Looking forward to sharper his skill and broaden his horizen in a demanding workplace.
 </h4>
 </br>
 <img alt="image header" src="dev1.png"/> 
