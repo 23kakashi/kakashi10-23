@@ -12,6 +12,7 @@
     <li>I'm a Full-Stack Web Developer with sepecialisation in MERN stack</li>
     <li>I'm currently learning Node and ExpressJS</li>
     <li>Reach out to me <a>tapishsharma1234@gmail.com</a></li>
+    <li>My project can viewed visiting my <a href="https://tapish-sharma.netlify.app/">Protfolio</a></li>
   </ol>
 
 <!-- ## Contact me -->
