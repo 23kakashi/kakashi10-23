@@ -53,6 +53,7 @@
 <!-- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) -->
 ### 📚 Learning
 ![ChartJS](https://img.shields.io/badge/ChartJS-20232A?style=for-the-badge&logo=chartjs&logoColor=61DAFB)
+![MySQL](https://img.shields.io/badge/MySQL-20232A?style=for-the-badge&logo=mysql&logoColor=61DAFB)
 
 ## <img src="gifs/haha.gif" width="25px"> Github stats
 
